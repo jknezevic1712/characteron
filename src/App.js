@@ -1,7 +1,7 @@
 import React, { lazy, Suspense } from "react";
 import { Switch, Route, Redirect } from "react-router-dom";
 
-import "./App.css";
+import "./App.scss";
 
 // * Components
 import Spinner from "./components/spinner/spinner.component";
