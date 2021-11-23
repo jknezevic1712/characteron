@@ -1,9 +1,12 @@
 body {
+  background-image: url("../src/characteron-background.jpg");
+  background-size: cover;
   margin: 0;
   font-family: "Estonia", cursive;
-  font-size: 2rem;
+  font-size: 2.5rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: white;
 }
 
 code {
